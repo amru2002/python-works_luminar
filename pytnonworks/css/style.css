@@ -1,0 +1,32 @@
+body {
+   background-color:black ;
+}
+/* h1{
+    color: cyan;
+} */
+#first{
+    color: red;
+}
+.item{
+    color:blue;
+}
+.item2{
+    color:white;
+    text-decoration:underline;
+    /* text-decoration:line-through ; */
+    /* text-decoration:overline ; */
+    text-decoration-color:green ;
+}
+.one{
+    color:green;
+    
+}
+.two{
+    color:red;
+}
+/* .main-head h1{
+    color:aqua;
+} */
+.main-head h1:nth-child(1){
+    color:aqua;
+}
